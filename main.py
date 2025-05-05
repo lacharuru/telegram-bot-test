@@ -1,9 +1,7 @@
 import requests
 
-# bot token (be sure to copy-paste it correctly)
-TELEGRAM_BOT_TOKEN = "xxxxxx"
-# Telegram Chat ID, you can use a group ID 
-CHAT_ID = "xxxxxx"
+TELEGRAM_BOT_TOKEN = "xxxxxx" # bot token (be sure to copy-paste it correctly)
+CHAT_ID = "xxxxxx" # Telegram Chat ID, you can use a group ID 
 
 MESSAGE = "Yay, i'm here!"
 
